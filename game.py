@@ -1,5 +1,7 @@
 import shutil
 import random
+name=input("Enter your name:")
+print("I hope",name, "you will playing well")
 counter=0
 count=0
  
